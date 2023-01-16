@@ -15,7 +15,7 @@ I'm.....
 <div align="center">
   <h4><s>Chemical Engineer</s> <img alt="TeamCity Full Build Status" src="https://img.shields.io/teamcity/build/e/bt343?label=experience&style=flat-square?style=for-the-badge"></h4>
   <h2>Fron-End Developer <img alt="TeamCity Full Build Status" src="https://img.shields.io/teamcity/build/e/bt347?style=for-the-badge"></h2> 
-  <img alt="TeamCity Full Build Status" src="">
+ 
 </div>
 
 <div id="header" align="center">
