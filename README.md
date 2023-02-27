@@ -32,8 +32,11 @@ I'm.....
 
 #
 ### 👩🏿‍💻 Programming Languages and Technologies 👩🏿‍💻:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennyquinto&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<div align="left">  
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennyquinto&langs_count=8)](https://github.com/jennyquinto/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennyquinto&hide=javascript,html)](https://github.com/jennyquinto/github-readme-stats)<div align="left"><div align="left">  
+<div align="left">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
