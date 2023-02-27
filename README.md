@@ -6,6 +6,7 @@
 
 ~~~
 I'm.....
+
 ~~~
 
 <h1 style="color:blue" align="center">
@@ -32,10 +33,13 @@ I'm.....
 
 #
 ### 👩🏿‍💻 Programming Languages and Technologies 👩🏿‍💻:
- 
+###
+![JennyQuinto's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennyquinto&show_icons=true&theme=radical) 
+###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennyquinto&langs_count=8)](https://github.com/jennyquinto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennyquinto&hide=javascript,html)](https://github.com/jennyquinto/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennyquinto&hide=javascript,html)](https://github.com/jennyquinto/github-readme-stats)<div align="left"><div align="left">  
+
 <div align="left">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -44,8 +48,7 @@ I'm.....
   <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
-  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
-  
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>  
 </div>
 
 
