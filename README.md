@@ -32,8 +32,10 @@ I'm.....
 </div>
 
 #
-### 👩🏿‍💻 Programming Languages and Technologies 👩🏿‍💻:
-###
+<h2 align="center">
+  👩🏿‍💻 Programming Languages and Technologies 👩🏿‍💻
+  </h2>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennyquinto&langs_count=8)](https://github.com/jennyquinto/github-readme-stats)
 ![JennyQuinto's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennyquinto&show_icons=true&theme=radical)
 
