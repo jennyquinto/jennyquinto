@@ -6,12 +6,10 @@
 
 ~~~
 I'm.....
-
 ~~~
 
-<h1 style="color:#87ceeb" align="center">
-  Jenny Vanessa Quínto Córdoba
-</h1>
+
+
 
 <div align="center">
   <h4><s>Chemical Engineer</s> <img alt="TeamCity Full Build Status" src="https://img.shields.io/teamcity/build/e/bt343?style=for-the-badge"></h4>
