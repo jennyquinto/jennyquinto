@@ -9,8 +9,8 @@ I'm.....
 
 ~~~
 
-<h1 style="color:blue" align="center">
-  $\color{#87ceeb}{\text{Jenny Vanessa Quínto Córdoba}}$
+<h1 style="color:#87ceeb" align="center">
+  Jenny Vanessa Quínto Córdoba
 </h1>
 
 <div align="center">
